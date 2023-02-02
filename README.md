@@ -1,4 +1,4 @@
-# 艾略特波浪半对数计算器
+# 艾略特波浪半对数计算器<br>Elliott Wave Semi-Log Calculator
 
 1. 回调P值与反弹P值：
 
