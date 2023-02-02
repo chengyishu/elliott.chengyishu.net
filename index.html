@@ -132,6 +132,7 @@
     	//计算下跌目标H值与上涨目标H值
     	function H(a, b, c) {    		
     		//初始化值
+    		let h0382 = 0;
     		let h0618 = 0;
     		let h1 = 0;
     		let h1618 = 0;
@@ -140,9 +141,9 @@
 			if (c) {
 				h0382 = Math.pow(b/a,0.382)*c;
 				h0618 = Math.pow(b/a,0.618)*c;
-	    		h1 = b/a*c;
-	    		h1618 = Math.pow(b/a,1.618)*c;
-	    		h2618 = Math.pow(b/a,2.618)*c;
+    		h1 = b/a*c;
+    		h1618 = Math.pow(b/a,1.618)*c;
+    		h2618 = Math.pow(b/a,2.618)*c;
 			}
     		//显示结果
     		$('#h0382').text(round(h0382,4));
