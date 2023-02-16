@@ -1,10 +1,12 @@
-# 艾略特波浪半对数计算器<br>Elliott Wave Semi-Log Calculator
+# 艾略特波浪半对数计算器（前哨站）<br>Elliott Wave Semi-Log Calculator（Full）
 
 1. 回调P值与反弹P值：
 
    > 回调P值，即 a 涨到 b，b 再下跌到何处企稳。
    >
    > 反弹P值，即 a 跌到 b，b 再上涨到何处停止。
+
+   - P<sub>4</sub>＝a<sup>0.236</sup>×b<sup>0.764</sup>
 
    - **P<sub>1</sub>＝a<sup>0.382</sup>×b<sup>0.618</sup>**
 
