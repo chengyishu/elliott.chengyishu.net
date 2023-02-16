@@ -6,7 +6,7 @@
    >
    > 反弹P值，即 a 跌到 b，b 再上涨到何处停止。
 
-   - P<sub>4</sub>＝a<sup>0.236</sup>×b<sup>0.764</sup>
+   - P<sub>0</sub>＝a<sup>0.236</sup>×b<sup>0.764</sup>
 
    - **P<sub>1</sub>＝a<sup>0.382</sup>×b<sup>0.618</sup>**
 
